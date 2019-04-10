@@ -1,0 +1,47 @@
+{
+  "_from": "karimsa",
+  "_id": "karimsa@0.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-KKGDeZ7HPYlliMvv//oBf6+3lyvJMJY7MhbT80ZwH2hxP4Sd1shppjCVhIlN8jhZnmY9N93OpFtEPwVwTpxt0A==",
+  "_location": "/karimsa",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "karimsa",
+    "name": "karimsa",
+    "escapedName": "karimsa",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/karimsa/-/karimsa-0.0.0.tgz",
+  "_shasum": "506598060d665a8fc56f81f836cb1bd8045c0214",
+  "_spec": "karimsa",
+  "_where": "/Users/karimsa/projects/benchmarks",
+  "author": {
+    "name": "Karim Alibhai"
+  },
+  "bugs": {
+    "url": "https://github.com/karimsa/karimsa/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Contact me? Just for jokes during presentations.",
+  "homepage": "https://github.com/karimsa/karimsa#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "karimsa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimsa/karimsa.git"
+  },
+  "scripts": {
+    "postinstall": "node -e 'console.log(\"Are you really installing this?\")'"
+  },
+  "version": "0.0.0"
+}

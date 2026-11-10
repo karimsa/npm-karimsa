@@ -3,10 +3,9 @@
 console.log(
   {
     name: 'Karim Alibhai',
-    email: 'karim@alibhai.co',
+    email: 'hey@karim.build',
     github: 'https://github.com/karimsa',
-    medium: 'https://medium.com/@karimsa',
-    website: 'https://alibhai.co',
+    website: 'https://karim.build',
     tagline: 'Here\'s to the crazy ones...',
   }
 )
